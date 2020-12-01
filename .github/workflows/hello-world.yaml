@@ -1,5 +1,5 @@
 
-name: first
+name: first_gh_action
 
 on : push
 
