@@ -2,6 +2,7 @@ name: develop_branch_wf
 
 on:
   push:
+    branches:
       - develop
 
 jobs:
